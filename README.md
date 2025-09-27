@@ -1,10 +1,6 @@
 # PHP-logIn-signUp
 This PHP project is a user authentication system with secure sign-up and login functionality.
 
-# Project Description: Secure PHP User Authentication
-
-This PHP project provides a robust user authentication system, offering secure sign-up and login capabilities. All interactions with the database are cleanly managed through a dedicated `Database` class.
-
 ## Exposed Functions:
 
 *   `signUp($table, $fullname, $email, $username, $password)`
